@@ -1,0 +1,3 @@
+-La carpeta dirt , es lo que voy a subir a la web
+-Ejecutar Con un servidor , recomendado (live serve)VisualCode
+-Practica con Bootstrap , Sass , Html5
